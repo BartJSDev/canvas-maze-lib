@@ -1,3 +1,4 @@
+import { Node } from "../src/node.js";
 import { mazeEngine } from "../src/mazeEngine.js";
 
 let maze = null
