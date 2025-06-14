@@ -1,0 +1,30 @@
+html, body{
+
+    margin: 5;
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+
+}
+
+.container{
+
+    padding: 10px;
+
+}
+
+input{
+
+    width: 60px;
+    margin-right: 10px;
+}
+
+label{
+
+    margin-left: 10px;
+}
+
+canvas{
+
+    border: 1px solid black;
+}
